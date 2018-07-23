@@ -1,4 +1,4 @@
-Copyright 2018 @Knc Solutions Private Limited.
+Copyright (C) 2018 @Knc Solutions Private Limited.
 Dhelm® is a trademark of the KNC Solutions Private Limited.
 
 Disclaimer: To use certain components of the software we have to rely on our backend server, for which some of your
