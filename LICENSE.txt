@@ -1,0 +1,79 @@
+DhelmScreener-demo ‐End Use License Agreement
+This End-User License Agreement (EULA) is a legal agreement 
+between the user and KNC Solutions Private Limited of the DhelmScreener-demo
+identified above, which includes computer software and may include 
+associated media, printed materials, and “online” or electronic documentation (“Software Product”).
+
+By installing, copying, or otherwise using the software,
+you agree to be bounded by the terms of this EULA.
+If you do not agree to the terms of this EULA, do not install or use the Software Product.
+
+
+SOFTWARE PRODUCT LICENSE
+
+a)  DhelmScreener-demo  is being distributed as, Freeware
+for personal use only. 
+By accessing the repository  or downloading the software you are agreeing that you are an individual and
+you are going to use this library for your personal use only.  You are NOT allowed to reproduce,redistribute 
+it in either in its original form or any modified version. 
+You are NOT allowed to use it for any commercial or business purpose.
+b) By using the software you understand that DhelmScreener-demo is only for demonstration purpose for the original DhelmScreener software.
+Hence you should not use it for any purpose other than as demo.
+c) By using the software you understand that KNC Solutions Private Limited is providing no real time or simulation data.
+You are providing your own data feed to the software by means of your own api.
+d) Third party softwares, which are embedded into the DhelmScreener-demo are protected by there own copyright law and licese agreement which
+you must not disassemble/modify without written consent from KNC Solutions Private Limited. 
+e) By using the software you are authorizing us to get your certain credentials to our server. You also understand that we are using your credentials
+to process your request only, and we are not storing any of your credentials.
+
+1. Grant of License. This EULA grants you the following rights:
+Installation and Use. You may  use an unlimited number of copies of the software.
+
+Copies of the Software Product may be  included with your own product as long as 
+the product is for your personal use and you don't distribute it and the Software 
+Product is not sold or included in a product or package that intends to receive
+benefits through the inclusion of the Software Product.
+
+
+2. Description of Rights and Limitations.
+Limitations on Reverse Engineering, Decompilation, Disassembly and change (add,delete or modify)
+the resources in the compiled the assembly. You may not reverse engineer, decompile, or disassemble
+the binaries, except and only to the extent that such activity is expressly permitted by applicable
+law notwithstanding this limitation.
+
+Dhelm is a trade mark of KNC Solutions Private Limited. You must not remove or reuse it without 
+written consent from KNC Solutions Private Limited.
+
+Update and Maintenance : 
+This  agreement will be valid for 1 year from the date of commencement 
+of this agreement. Within this period you can access any updates made to the library.
+
+Termination.
+Without prejudice to any other rights, the Author of this Software may terminate this EULA
+if you fail to comply with the terms and conditions of this EULA. In such event, you must 
+destroy all copies of the Software Product and all of its component parts.
+
+
+
+3. Copyright.
+All title and copyrights in and to the Software Product (including but not limited to any 
+images, photographs, clipart, libraries, and examples incorporated into the Software Product),
+and any copies of the Software Product are owned by the Author of this Software, unless otherwise specified. The Software
+Product is protected by copyright laws and international treaty provisions. Therefore, you must 
+treat the Software Product like any other copyrighted material. The licensed individual users 
+can use the software to inspect the demonstation of the pro version of the software.
+
+LIMITED WARRANTY
+No Warranties.The Author of this Software expressly disclaims any warranty for the Software Product.
+The Software Product and any related documentation is provided “as is” without warranty of any kind,
+either express or implied, including, without limitation, the implied warranties or
+merchantability, fitness for a particular purpose, or noninfringement. The entire risk 
+arising out of use or performance of the Software Product remains with you.
+
+
+No Liability for Damages.
+In no event shall the author of this Software be liable for any special, consequential, 
+incidental or indirect damages whatsoever (including, without limitation, damages for 
+loss of business profits, business interruption, loss of business information, or any
+other pecuniary loss) arising out of the use of or inability to use this product, even
+if the Author of this Software is aware of the possibility of such damages and known defects.
