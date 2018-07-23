@@ -1,0 +1,6 @@
+Copyright 2018 @Knc Solutions Private Limited.
+Dhelm® is a trademark of the KNC Solutions Private Limited.
+
+Disclaimer: To use certain components of the software we have to rely on our backend server, for which some of your
+data are transmitted over the network to our backend server.However your credentials are used
+to process your request only, and we are not storing any of your credentials.
